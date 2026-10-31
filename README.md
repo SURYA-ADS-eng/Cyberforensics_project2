@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent Cyberattack Detection System & Web Application Firewall (WAF)
 
 **Institution:** Velalar College of Engineering and Technology (Autonomous), Erode  
@@ -74,3 +75,6 @@ curl.exe "[http://127.0.0.1:5000/download?file=../../../../etc/passwd](http://12
 Client Terminal Output: 403 Forbidden: Malicious payload intercepted by AI WAF Gateway.
 
 Dashboard Log: Marked as 🚫 BLOCKED (403) displaying directory restriction remediation.
+=======
+# Cyberforensics_project2
+>>>>>>> 22d610d7a7ea357ecdbb74e159e0a12ec52ee38c
